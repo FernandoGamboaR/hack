@@ -4,7 +4,10 @@ Repositorio usado para levantar la pagina en azure, se encuentran los archivos a
 
 ## Objetivo
 
-Usar elementos de Azure en este caso Azure web sites, Cognitive Vision y Chatbot. Especificando:
+Usar elementos de Azure entre otros para impulsar a la exploracion de altares y aprendizaje de los usuarios que accedan a la pagina.
+
+## Especificando
+En este proyecto se enfoca al uso de servicios Azure, los cuales fueron Azure web sites, Cognitive Vision y Chatbot.
   
   Azure Web Sites, para tener la pagina prototipo accesible se uso github como repositorio y se cargo por medio de conexiones al servicio.
   
